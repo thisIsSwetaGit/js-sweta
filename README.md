@@ -1,2 +1,2 @@
-# js-hindi-youtube
+# js-sweta
 A code repo for javascript by sweta
