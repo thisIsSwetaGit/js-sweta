@@ -12,4 +12,6 @@ let temp=null
 
 // object 
 console.log(typeof 99)
+console.log(typeof undefined)
+console.log(typeof null)
 
